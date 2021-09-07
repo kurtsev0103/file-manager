@@ -1,4 +1,4 @@
-# fileManager
+# FileManager
 A minimalist File Manager for computer. 
 
 Convenient file Manager with the ability to create folders. The ability to delete files/folders. And view information about the files/folders.
@@ -22,3 +22,5 @@ All folders and files can be easily removed. And in the upper right corner (if y
 And, on any folder and any file you can view detailed information by clicking on the button in the appropriate cell.
 
 ![8](https://user-images.githubusercontent.com/27446881/30300265-1426bcde-9754-11e7-9dc5-afa1f40dd920.jpeg) ![9](https://user-images.githubusercontent.com/27446881/30300264-13e95100-9754-11e7-94d1-b74fbce10383.jpeg)
+
+## Created by Oleksandr Kurtsev (Copyright © 2021) [LICENSE](https://github.com/kurtsev0103/FileManager/blob/master/LICENSE)
